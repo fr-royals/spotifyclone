@@ -1,3 +1,3 @@
 # spotify clone
 
-this project is creted by farhan
+this project is creted by farhanit c
